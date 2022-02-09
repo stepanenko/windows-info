@@ -1,5 +1,4 @@
-# AngularSocketIo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.3.
+## Windows Notes
 
-Updated with `ncu -u` at 14.09.2020
+Created: 09.02.2022
