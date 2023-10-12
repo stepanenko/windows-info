@@ -1,7 +1,5 @@
 
-## Windows Notes
-
-Created: 09.02.2022
+# Windows
 
 ### Fonts - Windows Terminal:
 - JetBrains Mono Thin
